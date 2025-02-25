@@ -1,6 +1,3 @@
-Awesome! Let's update your README to include the fact that you're using SHAP for both global and local explanations and that you built a **Stroke Prediction Dashboard** using **Shiny App**. Here's the revised README:
-
----
 
 # Explainable Machine Learning Models for Stroke Prediction with Class Imbalance
 
@@ -178,7 +175,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ROSE** and **OVUN.SAMPLE** for class imbalance handling techniques.
 - The authors of **SHAP** for providing a powerful tool for model explainability.
 - **R Shiny** for building the interactive Stroke Prediction Dashboard.
-
----
-
-This updated README now reflects the additional use of **SHAP for both global and local explanations** and the inclusion of a **Shiny App Dashboard** for interactive stroke prediction. Let me know if you'd like any further modifications!
