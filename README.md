@@ -118,7 +118,7 @@ pip install -r requirements.txt
 install.packages("shiny")
 install.packages("shinydashboard")
 install.packages("plotly")
-install.packages("shapr")
+install.packages("shapviz")
 ```
 
 ## Usage
