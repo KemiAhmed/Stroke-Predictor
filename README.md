@@ -1,5 +1,5 @@
 
-Explainable Machine Learning Models for Stroke Prediction with Class Imbalance
+#Explainable Machine Learning Models for Stroke Prediction with Class Imbalance
 
 ## Project Overview
 This project explores the use of explainable machine learning models for stroke prediction, specifically addressing the challenge of class imbalance. The goal is to predict the likelihood of a stroke occurring in patients using clinical data while ensuring that the models remain interpretable. This is crucial for healthcare applications where the decisions made by the models should be understandable to medical professionals. 
