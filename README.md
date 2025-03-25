@@ -150,9 +150,8 @@ To launch the Shiny App:
 
 1. Open the R console and navigate to the project folder.
 2. Run the Shiny app:
-   ```r
+ 
    https://kemiahmed.shinyapps.io/stroke_prediction_dashboard/
-   ```
 
 The app provides a user-friendly interface to explore the stroke prediction model and visualizations.
 
